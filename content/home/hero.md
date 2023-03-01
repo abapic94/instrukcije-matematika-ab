@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Instruktivni materijali iz matematike
+title: 
 hero_media: book.svg
 design:
   background:
