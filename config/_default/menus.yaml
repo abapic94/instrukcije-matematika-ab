@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Početna
     url: /
     weight: 10
-  - name: Documentation
+  - name: Materijali
     url: docs/
     weight: 20

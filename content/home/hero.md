@@ -18,5 +18,6 @@ Ukoliko imate neka pitanja oko materijala ili prijedloge za zadatke, pišite na 
 
 
 S poštovanjem,
+
 dr. Amar Bapić
 
