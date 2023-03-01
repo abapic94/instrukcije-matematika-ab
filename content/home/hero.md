@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: Instruktivni materijali iz matematike
 hero_media: book.svg
 design:
   background:
@@ -11,21 +11,14 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: Klikni me
   icon_pack: fas
   icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Imate problema sa rješavanjem matematičkih zadataka? Onda ste došli na pravo mjesto. Na ovoj stranici možete pronaći veliku bazu rješenih matematičkih zadataka raspoređenih po oblastima. Stranica je namjenjena kako učenicima tako i studentima.
 
-Write something interesting about your project here.
+Za više informacija pišite na mail [mailto:instrukcije.matematika.ab@gmail.com]{instrukcije.matematika.ab@gmail.com} i posjetite moju ličnu [https://abapic94.github.io]{web stranicu} za više informacija o meni.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+dr. Amar Bapić
+
