@@ -12,9 +12,11 @@ design:
 ---
 
 
-Imate problema sa rješavanjem matematičkih zadataka? Onda ste došli na pravo mjesto. Na ovoj stranici možete pronaći veliku bazu rješenih matematičkih zadataka raspoređenih po oblastima. Stranica je namjenjena kako učenicima tako i studentima.
+Imate problema sa matematikom? Onda ste došli na pravo mjesto. Na ovoj stranici možete pronaći veliku bazu rješenih matematičkih zadataka raspoređenih po oblastima. Stranica je namjenjena kako učenicima tako i studentima.
 
-Za više informacija pišite na mail [instrukcije.matematika.ab@gmail.com](mailto:instrukcije.matematika.ab@gmail.com) i posjetite moju ličnu [web stranicu](https://abapic94.github.io) za više informacija o meni.
+Ukoliko imate neka pitanja oko materijala ili prijedloge za zadatke, pišite na mail [instrukcije.matematika.ab@gmail.com](mailto:instrukcije.matematika.ab@gmail.com). Također posjetite moju ličnu [web stranicu](https://abapic94.github.io) za više informacija o meni.
 
+
+S poštovanjem,
 dr. Amar Bapić
 
