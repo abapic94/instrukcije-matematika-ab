@@ -10,4 +10,8 @@ Jednačine oblika $$ax^2+bx+c=0,\ a,b,c\\in\\mathbb{R},\ a\\neq 0$$ nazivamo kva
 - relana i dvostruka ($D=0$)
 - konjugirano-kompleksna ($D<0$)
 
-Kvadratna jednačina uvijek ima dva rješenja, označit ćemo ih s $x_1$ i $x_2$, i možemo ih odrediti koristeći formulu: $$x_{1,2}=\\frac{-b\\pm \\sqrt{D}}{2a}.$$
+Kvadratna jednačina uvijek ima dva rješenja, $x_1$ i $x_2$, koja možemo odrediti koristeći formulu: $$x_{1,2}=\\frac{-b\\pm \\sqrt{D}}{2a}.$$
+
+> **Zadatak 1.** Riješi jednačinu $5x^2-6x+1=0$.
+
+
