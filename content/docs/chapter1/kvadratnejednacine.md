@@ -13,8 +13,11 @@ Jednačine oblika $$ax^2+bx+c=0,\ a,b,c\\in\\mathbb{R},\ a\\neq 0$$ nazivamo kva
 Kvadratna jednačina uvijek ima dva rješenja, $x_1$ i $x_2$, koja možemo odrediti koristeći formulu: $$x_{1,2}=\\frac{-b\\pm \\sqrt{D}}{2a}.$$
 
 **Zadatak 1.** Riješi kvadratne jednačine:
+
 a. $5x^2-6x+1=0$.
+
 b. $4x^2+4x+1=0$.
+
 c. $x^2-2x+5=0$.
 
 a) Pri rješavanju bilo koje jednačine, prva stvar koju moramo odrediti jeste domena. Kako je kvadratna funkcija definisana za sve $x\\in \\mathbb{R}$ to je $\\mathbf{D}_{f}=\\mathbb{R}$. Vidimo da je $a=5,\ b=-6$ i $c=1$. Kako je diskriminanta $$D=b^2-4ac=(-6)^2-4\cdot 5\cdot 1=36-20=16>0$$
