@@ -19,7 +19,6 @@ a. $5x^2-6x+1=0$.
 b. $4x^2+4x+1=0$.
 
 c. $x^2-2x+5=0$.
-
 {{< figure library="true" src="clubs.png">}}
 
 a. Pri rješavanju bilo koje jednačine, prva stvar koju moramo odrediti jeste domena. Kako je kvadratna funkcija definisana za sve $x\\in \\mathbb{R}$ to je $D_f=\\mathbb{R}$. Vidimo da je $a=5,\ b=-6$ i $c=1$. Kako je diskriminanta $$D=b^2-4ac=(-6)^2-4\cdot 5\cdot 1=36-20=16>0$$
